@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752059415224",
+    "firebase_url": "https://myplaces-f79b1.firebaseio.com",
+    "project_id": "myplaces-f79b1",
+    "storage_bucket": "myplaces-f79b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752059415224:android:51ee9869bb5813e7",
+        "android_client_info": {
+          "package_name": "com.mosis.myplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752059415224-vdh4r8jchv1pk4h3anp3mu5tnm1kiei9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mosis.myplaces",
+            "certificate_hash": "81ca60517663d1bc1c1f712bab9b8ba71109d235"
+          }
+        },
+        {
+          "client_id": "752059415224-e87k81as660i1menuip4ivnrpmijvtli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC561f75aFqnbxmUBBDlb3H77i-S6-WRfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752059415224-e87k81as660i1menuip4ivnrpmijvtli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
